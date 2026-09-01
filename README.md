@@ -2,8 +2,8 @@
 
 ## About
 
-Codespace for a collab between Vicioustrex, CodeSprite, Cookie, Katite, and Fireball.
-
+Codespace for a collab between Vicioustrex, CodeSprite, Cookie, Bristlefrost, Katite, and Fireball.
+ 
 ## Main Concept
 
 Sada themed multiplayer shooting platformer based off of CQ2 
