@@ -1,6 +1,12 @@
-# Soda-game-
+# Soda-game
+
+## About
+
+Codespace for a collab between Vicioustrex, CodeSprite, Cookie, Bristlefrost, Katite, and Fireball.
+ 
+## Main Concept
+
+Sada themed multiplayer shooting platformer based off of CQ2 
 
 
-
-
-Here if anyone sees this you can create a fork ig
+> Here if anyone sees this you can create a fork ig
